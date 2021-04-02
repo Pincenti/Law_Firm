@@ -34,6 +34,15 @@ body {
     height: fit-content;
 }
 
-.Charlie {
-    
+#Charlie {
+    border: 2px solid lightgray;
+    padding: 2px;
+    outline: 5px solid gray;
+    outline-width: 3px;
+    outline-offset: 4px;
+
+}
+
+#p1 {
+    text-indent: 150px;
 }
