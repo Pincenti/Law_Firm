@@ -1,0 +1,35 @@
+  #hr1 {
+        position: relative;
+        top: 35px;
+        border: none;
+        height: 3px;
+        background: black;
+        margin-bottom: 50px;
+        }
+
+    #hr2 {
+           position: relative;
+           top: 0px;
+           border: none;
+           height: 3px;
+           background: black;
+           margin-bottom: 50px;
+         }
+    #header-text {
+                text-align: center;
+    }
+
+    #logo {
+       margin-top: 50px;
+    margin-bottom: -105px;
+    text-align: center;
+    
+    } 
+body {
+    background:url(./Images/nza_background.jpg) no-repeat;
+    background-attachment: fixed;
+}
+.container.one {
+    background-color:#fff;
+    height: fit-content;
+}
