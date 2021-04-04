@@ -35,6 +35,7 @@ body {
 }
 
 #Charlie {
+
     border: 2px solid lightgray;
     padding: 2px;
     outline: 5px solid gray;
@@ -45,4 +46,82 @@ body {
 
 #p1 {
     text-indent: 150px;
+}
+
+.text {
+    background-color: tomato;
+    height: 300px;
+    width: 210px;
+    color: black;
+}
+
+.text-decoration {
+    text-decoration: underline;
+    font-weight: bold;
+    text-align: center;
+    
+}
+
+#results {
+    text-align: center;
+}
+
+#bird-facts {
+    text-decoration: underline;
+    font-weight: bold;
+    text-align: center;
+}
+
+.Bird-para {
+    margin-left: 100px;
+}
+
+#wanted {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.wanted-img {
+    height: auto;
+}
+
+.who-we-are {
+    background-color: darkorange;
+    height: 570px;
+    width: 200px;
+    color: whitesmoke;
+    text-align: center;
+}
+
+#who-title {
+    text-decoration: underline;
+    text-decoration-color: whitesmoke;
+}
+
+#poster {
+    height: 175px;
+    width: 175px;
+}
+
+#attorney {
+    width: 400px;
+    padding-bottom: 10px;
+}
+
+.mugshot {
+    height: 200px;
+    width: 200px;
+    padding-bottom: 10px;
+}
+
+#dee {
+    height: 200px;
+    width: 200px;
+    margin-left: 3px;
+    
+}
+
+.fourpics {
+   padding: 3px;
+   padding-top: 10px;
 }
